@@ -30,8 +30,8 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = "Cheems Bot MD V8"
-global.ownernumber = '916909137213'
-global.ownername = '🦄드림 가이 Xeon'
+global.ownernumber = 923076092770'
+global.ownername = 'MEHRAN MALIK'
 global.ownerNumber = ["916909137213@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
